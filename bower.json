@@ -1,0 +1,14 @@
+{
+  "name": "day2-p1",
+  "homepage": "https://github.com/nidakhanpalee/day2-p1",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
